@@ -23,8 +23,8 @@ navbar-links:
   About: "about"
   Blog: "blog"
   Books:
-    - Ørberg-ized Epitome Μέρος Πρῶτον: "first-part"
-    - Digitized Ἐπιτομὴ τῆς Καινῆς Διαθήκης: "digitized-epitome"
+    - Ørberg-ized Epitome of the New Testmant (First Part): "first-part"
+    - Digitized Epitome of the New Testament: "digitized-epitome"
   Audio:
     - Second Peter: "coming-soon"
   YouTube: "https://www.youtube.com/@spoudazomen"
@@ -58,7 +58,7 @@ social-network-links:
   # facebook: deanattali
   # github: daattali
   twitter: spoudazomen
-  patreon: Spoudazomen
+  patreon: spoudazomen
   youtube: "@spoudazomen"
   # whatsapp: 15551212
 #  medium: yourname
