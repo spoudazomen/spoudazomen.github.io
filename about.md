@@ -12,7 +12,7 @@ Concerning critical thinking, our focus is on logic and informal reasoning (how 
 
 ### Team
 
-Jason Rogers is the Spoudazomen's founder. He has a degree in Philosophy with a minor in Classical Studies from George Mason University, as well as a Master’s and PhD (also in Philosophy) from the University of Rochester. His publications include articles in philosophy and a small book in Ancient Greek, <span class="greek-text">Ἐπιτομὴ τῆς Καινῆς Διαθήκης (Ἔκδοσις Κεκοσμημένη)· Μέρος Πρῶτον</span>. He has taught philosophy at the university level and Ancient Greek informally online, where he also regularly converses in both Ancient Greek and Latin.
+Jason Rogers is Spoudazomen's founder. He has a degree in Philosophy with a minor in Classical Studies from George Mason University, as well as a Master’s and PhD (also in Philosophy) from the University of Rochester. His publications include articles in philosophy and a small book in Ancient Greek, <span class="greek-text">Ἐπιτομὴ τῆς Καινῆς Διαθήκης (Ἔκδοσις Κεκοσμημένη)· Μέρος Πρῶτον</span>. He has taught philosophy at the university level and Ancient Greek informally online, where he also regularly converses in both Ancient Greek and Latin.
 
 ### About the Name
 
