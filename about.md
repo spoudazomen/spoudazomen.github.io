@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Spoudazomen
-subtitle: Who we are and what we aim to do
+title: About
+subtitle: Who we are and what we strive to do
 ---
 
-Spoudazomen (Σπουδάζωμεν) is an initiative dedicated to the learning of classical languages (Ancient Greek and Latin) and critical thinking.
+Spoudazomen (<span class="greek-text">Σπουδάζωμεν</span>) is an initiative dedicated to the learning of classical languages (Ancient Greek and Latin) and critical thinking.
 
 Our emphasis concerning Ancient Greek and Latin is on learning via “natural” methods (e.g., “living language” or “immersive” approaches that rely heavily on comprehensible input). We aim to produce and distribute resources geared toward the learning of those languages with those methods. (In the future, we also hope to provide tutoring and teaching with the same aim.) Our initiative has the bulk of both languages in view — Attic and Koine Greek, Classical and Post-Classical Latin — though its focus is skewed somewhat toward the language and idioms of the New Testament and Church Fathers.
 
@@ -12,8 +12,8 @@ Concerning critical thinking, our focus is on logic and informal reasoning (how 
 
 ### Team
 
-Jason Rogers is the Spoudazomen's founder. He has a degree in Philosophy with a minor in Classical Studies from George Mason University, as well as a Master’s and PhD (also in Philosophy) from the University of Rochester. His publications include articles in philosophy and a small book in Ancient Greek, Ἐπιτομὴ τῆς Καινῆς Διαθήκης (Ἔκδοσις Κεκοσμημένη)· Μέρος Πρῶτον. He has taught philosophy at the university level and Ancient Greek informally online, where he also regularly converses in both Ancient Greek and Latin.
+Jason Rogers is the Spoudazomen's founder. He has a degree in Philosophy with a minor in Classical Studies from George Mason University, as well as a Master’s and PhD (also in Philosophy) from the University of Rochester. His publications include articles in philosophy and a small book in Ancient Greek, <span class="greek-text">Ἐπιτομὴ τῆς Καινῆς Διαθήκης (Ἔκδοσις Κεκοσμημένη)· Μέρος Πρῶτον</span>. He has taught philosophy at the university level and Ancient Greek informally online, where he also regularly converses in both Ancient Greek and Latin.
 
 ### About the Name
 
-σπουδάζωμεν (spoudazomen) is the third-person plural present subjunctive of the verb σπουδάζω (spoudazo). The verb σπουδάζω has a range of meanings including _strive_, _be earnest_, _work hard_, _focus seriously_, etc. Intended as a _hortatory_ subjunctive, σπουδάζωμεν can therefore be translated as "Let us strive!" It is used in this sense in the following quote from St. Ignatius of Antioch: «μιμηταὶ δὲ τοῦ Kυρίου σπουδάζωμεν εἶναι.»
+<span class="greek-text">σπουδάζωμεν</span> (spoudazomen) is the third-person plural present subjunctive of the verb <span class="greek-text">σπουδάζω</span> (spoudazo). The verb <span class="greek-text">σπουδάζω</span> has a range of meanings including _strive_, _be earnest_, _work hard_, _focus seriously_, etc. Intended as a _hortatory_ subjunctive, <span class="greek-text">σπουδάζωμεν</span> can therefore be translated as "Let us strive!" It is used in this sense in the following quote from St. Ignatius of Antioch: <span class="greek-text">«μιμηταὶ δὲ τοῦ Kυρίου σπουδάζωμεν εἶναι.»</span>
