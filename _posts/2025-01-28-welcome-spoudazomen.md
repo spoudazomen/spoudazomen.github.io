@@ -2,7 +2,6 @@
 layout: post
 title: Welcome! Σπουδάζωμεν!
 cover-img: /assets/img/books.jpg
-thumbnail-img: /assets/img/spoudazomen-logo.png
 share-img: /assets/img/books.jpg
 tags: []
 author: Jason Rogers
