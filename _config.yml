@@ -23,8 +23,7 @@ navbar-links:
   About: "about"
   Blog: "blog"
   Books:
-    - Ørberg-ized Epitome of the New Testmant (First Part): "first-part"
-    - Digitized Epitome of the New Testament: "digitized-epitome"
+    - Ørberg-ized Epitome of the New Testmant (First Part): "/assets/media/part_one_final_copy.pdf"
   Audio:
     - Second Peter: "coming-soon"
   YouTube: "https://www.youtube.com/@spoudazomen"
