@@ -11,6 +11,9 @@
 
 .btn-link-primary:hover {
     background-color: var(--hover-col);
+    color: white;
+    transition: background-color ease-in 250ms;
+    text-decoration: none;
 }
 
 .container-centered {
