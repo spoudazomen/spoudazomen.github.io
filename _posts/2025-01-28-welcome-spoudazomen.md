@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Welcome! Σπουδάζωμεν!
-subtitle: What's in a name?
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/books.jpg
+thumbnail-img: /assets/img/spoudazomen-logo.png
+share-img: /assets/img/books.jpg
 tags: []
 author: Jason Rogers
 ---
